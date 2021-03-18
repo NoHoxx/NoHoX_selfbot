@@ -1,2 +1,2 @@
-# NoHoX-self
+# it's not finish
 self bot by NoHoX
